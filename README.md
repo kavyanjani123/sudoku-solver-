@@ -29,4 +29,4 @@ Place the number in the cell if it doesn't violate Sudoku rules.
 Recursively attempt to solve the rest of the grid.
 If the grid is solved, return true.
 If placing the number leads to a conflict, remove the number and try the next one.
-If no numbers work, return false to trigger backtrackin
+If no numbers work, return false to trigger backtracking
