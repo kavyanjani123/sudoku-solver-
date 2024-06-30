@@ -1,4 +1,4 @@
-SUDOKU SOLVER 
+SUDOKU SOLVER
 
 The Sudoku Solver project aims to develop a C++ program that can solve Sudoku puzzles using the backtracking algorithm. The backtracking approach will systematically search for a solution by exploring possible number placements in the grid and backtracking when a conflict arises. This project will enhance understanding of recursive algorithms and constraint satisfaction problems.
 
